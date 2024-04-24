@@ -4,7 +4,7 @@
 
 ## ความรู้พื้นฐานของ Computer Science
 
-- [ ] รู้จักกับ HTTP
+- [x] รู้จักกับ HTTP
 - [ ] การทํางานเบื้องต้นของระบบ Internet
 - [ ] DNS / Domain name และ Client - Server Model
 - [ ] การทํางานของ Web Browser
@@ -14,33 +14,33 @@
 
 ## HTML/CSS
 
-- [ ] HTML พื้นฐาน
-- [ ] CSS พื้นฐาน
-- [ ] จัดการ Layouts ของ CSS Grid, Flexbox
-- [ ] การจัดการกับฟอร์ม และ Validation
+- [x] HTML พื้นฐาน
+- [x] CSS พื้นฐาน
+- [x] จัดการ Layouts ของ CSS Grid, Flexbox
+- [x] การจัดการกับฟอร์ม และ Validation
 - [ ] Responsive Design และ Media Querie
 - [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
 - [ ] ES6+ และ จัดการกับ Document Object Model (DOM)
 
 ## JavaScript
 
-- [ ] JavaScript พื้นฐาน
-- [ ] AJAX, Fetch API และ Axios
-- [ ] JSON/XML
+- [x] JavaScript พื้นฐาน
+- [x] AJAX, Fetch API และ Axios
+- [x] JSON/XML
 
 ## Front-End JavaScript Libraries/ Frameworks
 
 - [ ] State Management: Redux, MobX, Vuex
 - [ ] Build Tools & Runne
-- [ ] TypeScript
+- [x] TypeScript
 - [ ] React.js
 - [ ] Anugular
-- [ ] Vue.js
+- [x] Vue.js
 
 ## Version Control
 
-- [ ] Git
-- [ ] GitHub
+- [x] Git
+- [x] GitHub
 - [ ] GitLab
 
 ## การทำงานกับ API
@@ -68,7 +68,7 @@
 - [ ] CSS Architecture (OOCSS)
 - [ ] CSS Preprocessor (SASS / SCSS)
 - [ ] Tailwind
-- [ ] Bootstrap
+- [x] Bootstrap
 
 ## การออกแบบการเข้าถึงและประสบการณ์การใช้งาน
 
