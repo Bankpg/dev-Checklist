@@ -5,7 +5,7 @@
 ## ความรู้พื้นฐานของ Computer Science
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 - [ ] Java
 - [ ] C#
 - [ ] PHP
@@ -18,7 +18,7 @@
 - [ ] Algorithms
 - [ ] การออกแบบและการวิเคราะห์ระบบ
 - [ ] Design Patterns
-- [ ] OOP
+- [x] OOP
 - [ ] Problem Solving และ คณิตศาสตร์สําหรับคอมพิวเตอร์
 
 ## ระบบการจัดการฐานข้อมูล
@@ -48,7 +48,7 @@
 
 ## เครื่องมือสําหรับทดสอบ API (เลือก 1 เครื่องมือ)
 
-- [ ] Postman (แนะนําตัวนี้)
+- [x] Postman (แนะนําตัวนี้)
 - [ ] Bruno
 - [ ] Testfully
 - [ ] ทดสอบ RESTful API
@@ -62,10 +62,10 @@
 
 ## การจัดการโปรเจกต์ด้วย GIT
 
-- [ ] ความรู้เบื้องต้นเกี่ยวกับ Git
-- [ ] การทํางานร่วมกับ Command-line
-- [ ] การใช้งาน Branch และ Merge
-- [ ] การใช้งาน Git Remote
+- [x] ความรู้เบื้องต้นเกี่ยวกับ Git
+- [x] การทํางานร่วมกับ Command-line
+- [x] การใช้งาน Branch และ Merge
+- [x] การใช้งาน Git Remote
 
 ## การใช้งาน DOCKER
 
